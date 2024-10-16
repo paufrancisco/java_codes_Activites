@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "prime_number_50",
+            "request": "launch",
+            "mainClass": "prime_number_50",
+            "projectName": "java_code_activities_b392e87c"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbers",
+            "request": "launch",
+            "mainClass": "PrimeNumbers",
+            "projectName": "java_code_activities_b392e87c"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci_sequence",
+            "request": "launch",
+            "mainClass": "fibonacci_sequence",
+            "projectName": "java_code_activities_b392e87c"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"

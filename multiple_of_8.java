@@ -1,14 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package javaapplication3;
-
-/**
- *
- * @author Comlab
- */
-public class JavaApplication3 {
+ 
+public class multiple_of_8 {
 
     /**
      * @param args the command line arguments
