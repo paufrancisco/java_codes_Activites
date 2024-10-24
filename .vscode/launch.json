@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java_code_activities_b392e87c"
+        },
+        {
+            "type": "java",
             "name": "fibonacci_2",
             "request": "launch",
             "mainClass": "fibonacci_2",
