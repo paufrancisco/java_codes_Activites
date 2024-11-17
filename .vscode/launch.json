@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exception",
+            "request": "launch",
+            "mainClass": "exception",
+            "projectName": "java_code_activities_b392e87c"
+        },
+        {
+            "type": "java",
             "name": "largestArrayValue",
             "request": "launch",
             "mainClass": "largestArrayValue",
